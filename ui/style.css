@@ -6,6 +6,11 @@ body {
 
 .center {
     text-align: center;
+    width:90%;
+    background-color:white;
+    margin-left:10%;
+    position:absolute;
+    
 }
 
 .text-big {
